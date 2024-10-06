@@ -1,4 +1,4 @@
-# Password Strength Assessment Tool - README
+# Password Strength Assessment Tool 
 
 ## Overview
 This **Password Strength Assessment Tool** is designed to evaluate the strength of a password and provide feedback on how secure it is. It analyzes various aspects of the password, such as its length, the inclusion of uppercase and lowercase letters, numbers, and special characters, and then offers suggestions to improve the overall security of the password.
